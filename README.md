@@ -1,4 +1,4 @@
-# Felix Nshimyumukiza Portfolio
+# Felix Portfolio
 
 A lightweight personal portfolio built with Next.js App Router and Tailwind CSS.
 
