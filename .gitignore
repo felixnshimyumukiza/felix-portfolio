@@ -4,3 +4,6 @@ out/
 build/
 *.log
 tsconfig.tsbuildinfo
+
+.postman/
+postman/
